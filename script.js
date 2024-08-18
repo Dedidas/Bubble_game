@@ -1,4 +1,4 @@
-var timer = 30;
+var timer = 10;
 var score=0;
 
 function make_bubble() {
